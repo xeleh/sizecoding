@@ -9,8 +9,6 @@
 ; constants
 width       equ     320                 ; screen width
 timer       equ     46ch                ; bios timer
-vgastatus   equ     3dah                ; vga status register 1
-keybport    equ     60h                 ; keyboard data port
 
 ; set screen mode and palette
             mov     al,13h              ; bios service: set screen mode
@@ -39,9 +37,11 @@ fire        mov     ax,[es:di+width-1]  ; get the values of two pixels above
             stosb                       ; draw pixel
             cmp     di,-width           ; bottom reached?
             jnz     fire                ; no -> next pixel
-            mov     cl,width/2          ; draw shit at the bottom
-.shit       add     ax,[timer]          ; randomize it
-            stosw                       ; draw shit
-            loop    .shit
+
+; draw some shit at the bottom
+            mov     cl,width/2          ; a whole line
+.shit       add     ax,[timer]          ; randomize
+            stosw                       ; draw
+            loop    .shit               ; next 2 pixels
 
             jmp     fire
