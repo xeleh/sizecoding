@@ -1,25 +1,26 @@
 #!/bin/bash
 
-# $1 : name of the folder to build
+# $1    : name of the folder to build
+# $2... : (optional) additional args to be passed to nasm
 # Make sure that nasm is on the PATH!
 
 # fail if no folder name is specified
 if [[ "$#" -eq 0 ]] ; then
-    exit 1
+    echo "no folder specified" && exit 1
 fi
 
 # try to find the main .asm file
 file="$1"
+[ ! -f "$1/$file.asm" ] && file="${file/[/}" && file="${file/]/}"
 [ ! -f "$1/$file.asm" ] && file="main"
 [ ! -f "$1/$file.asm" ] && file="test"
 [ ! -f "$1/$file.asm" ] && exit 1
 
 # assemble it
 if command -v nasm &> /dev/null ; then
-    nasm -w+error -f bin -o "$1/$file.com" "$1/$file.asm" || exit 1
+    nasm -w+error "${@:2}" -f bin -o "$1/$file.com" "$1/$file.asm" || exit 1
 else
-    echo "nasm not on path?"
-    exit 1
+    echo "nasm not on path?" && exit 1
 fi
 
 # show .com file size
