@@ -19,3 +19,11 @@ A variation of the chaos/dweezil zoomer in 127 bytes. Released at Lovebyte Party
 [Pouet](https://www.pouet.net/prod.php?which=90976) | [Demozoo](https://demozoo.org/productions/305356/) | [Video](https://github.com/xeleh/sizecoding/raw/main/ffzoomer/ffzoomer.mp4) | [Source](https://github.com/xeleh/sizecoding/blob/main/ffzoomer/ffzoomer.asm)
 
 ![screenshot](https://github.com/xeleh/sizecoding/blob/main/ffzoomer/ffzoomer.png)
+
+## vccc2022
+
+My (non-submitted) entry for the [Vintage Computing Christmas Challenge 2022](https://logiker.com/Vintage-Computing-Christmas-Challenge-2022). x86 assembly. 83 bytes.
+
+[Source](vccc2022/v5.asm)
+
+![screenshot](vccc2022/screenshot.png)
