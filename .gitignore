@@ -1,2 +1,10 @@
+*
+!/**/
+!*.*
+*~
+.DS_Store
+.env
 .vscode
+\[*\]
 *.com
+run.sh

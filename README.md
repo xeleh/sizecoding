@@ -2,7 +2,7 @@
 
 Demoscene-ish tiny intros and other sizecoding experiments in x86 assembly language.
 
-Assemble with [nasm](https://www.nasm.us/) or use the provided `build.sh` bash script.
+Use the `build.sh` script in each folder to build the binaries.
 
 ## minfire
 
