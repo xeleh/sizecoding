@@ -22,8 +22,21 @@ A variation of the chaos/dweezil zoomer in 127 bytes. Released at Lovebyte Party
 
 ## vccc2022
 
-My (non submitted) entry for the [Vintage Computing Christmas Challenge 2022](https://logiker.com/Vintage-Computing-Christmas-Challenge-2022). 50 bytes, x86 assembly, DOSBox.
+My (non submitted) entry for the [Vintage Computing Christmas Challenge 2022](https://logiker.com/Vintage-Computing-Christmas-Challenge-2022).
 
-[Source](vccc2022/v7.asm)
+#### PC : 50 bytes, x86 assembly | [Source](vccc2022/v7.asm)
 
 ![screenshot](vccc2022/screenshot.png)
+
+## [vccc2023](vccc2023)
+
+My entries for the [Vintage Computing Christmas Challenge 2023](https://logiker.com/Vintage-Computing-Christmas-Challenge-2023).
+
+#### PC : 41 bytes, x86 assembly | [Source](vccc2023/x86/v5.asm)
+
+![screenshot](vccc2023/x86/result.png)
+
+#### Amiga : 68 bytes (without header), M68k assembly | [Source](vccc2023/amiga/v4.asm)
+
+![screenshot](vccc2023/amiga/result.png)
+

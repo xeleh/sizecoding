@@ -5,6 +5,8 @@
 .DS_Store
 .env
 .vscode
+.amigacode
 \[*\]
 *.com
+*.exe
 run.sh
