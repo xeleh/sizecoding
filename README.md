@@ -36,7 +36,7 @@ My entries for the [Vintage Computing Christmas Challenge 2023](https://logiker.
 
 ![screenshot](vccc2023/x86/result.png)
 
-#### Amiga : 68 bytes (without header), M68k assembly | [Source](vccc2023/amiga/v4.asm)
+#### Amiga : 68 bytes (without header), M68k assembly | [Source](vccc2023/amiga/v4.s)
 
 ![screenshot](vccc2023/amiga/result.png)
 
