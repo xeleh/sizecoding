@@ -30,7 +30,7 @@ main        moveq   #8,d0               ; set bcpl global area to a minimum safe
 ; check whether the determinant in d4 indicates a printable position
 test        divu.w  #6,d4               ; divide by 6
             swap    d4                  ; swap to have the remainder in the low word
-            tst     d4                  ; is the remainder is 0?
+            tst     d4                  ; is the remainder 0?
             bne.b   .end                ; no -> not divisible, just end the subroutine
             moveq   #'*',d1             ; yes -> set next char to write to '*'
 .end        rts                         ; return (also to be used as final rts after main loop ends)
