@@ -40,3 +40,10 @@ My entries for the [Vintage Computing Christmas Challenge 2023](https://logiker.
 
 ![screenshot](vccc2023/amiga/result.png)
 
+## [vccc2024](vccc2024)
+
+My entry for the [Vintage Computing Christmas Challenge 2024](https://logiker.com/Vintage-Computing-Christmas-Challenge-2024).
+
+#### PC : 52 bytes, x86 assembly | [Source](vccc2024/v5.asm)
+
+![screenshot](vccc2024/result.png)
