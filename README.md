@@ -4,6 +4,14 @@ Demoscene-ish tiny intros and other sizecoding experiments in x86 assembly langu
 
 Use the `build.sh` script in each folder to build the binaries.
 
+## matrixh
+
+The classic Matrix digital rain effect in 128 bytes. Released at Lovebyte Party 2025. Ranked 12th in the high-end 128-byte intro compo.
+
+[Demozoo](https://demozoo.org/productions/367739/) | [Video](matrixh/matrixh.mp4) | [Source](matrixh/v2.asm)
+
+![video](matrixh/matrixh.mp4)
+
 ## minfire
 
 A good looking fire effect in 64 bytes. Released at Lovebyte Party 2022. Ranked 9th in the high-end 64-byte intro compo.
