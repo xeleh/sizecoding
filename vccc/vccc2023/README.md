@@ -1,8 +1,8 @@
-## [vccc2023](vccc2023)
+# vccc2023
 
 My entries for the [Vintage Computing Christmas Challenge 2023](https://logiker.com/Vintage-Computing-Christmas-Challenge-2023).
 
-### PC : 41 bytes, x86 assembly
+## PC : 41 bytes, x86 assembly
 
 ![screenshot](x86/result.png)
 
@@ -16,7 +16,9 @@ My entries for the [Vintage Computing Christmas Challenge 2023](https://logiker.
 
 You can assemble each version by leaving the corresponding line uncommented in the `vccc2023.asm` file.
 
-### Amiga : 68 bytes (without header), M68k assembly
+<br>
+
+## Amiga : 68 bytes (without header), M68k assembly
 
 ![screenshot](amiga/result.png)
 

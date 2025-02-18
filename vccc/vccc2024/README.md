@@ -1,8 +1,8 @@
-## [vccc2024](vccc2024)
+# vccc2024
 
 My entry for the [Vintage Computing Christmas Challenge 2024](https://logiker.com/Vintage-Computing-Christmas-Challenge-2024).
 
-### PC : 52 bytes, x86 assembly
+## PC : 52 bytes, x86 assembly
 
 ![screenshot](result.png)
 

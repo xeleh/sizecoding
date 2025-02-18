@@ -34,7 +34,7 @@ My entries for the [Vintage Computing Christmas Challenge](https://logiker.com/V
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| ![screenshot](vccc/vccc2022/screenshot.png) | ![screenshot](vccc/vccc2023/x86/result.png) | ![screenshot](vccc/vccc2023/amiga/result.png) | ![screenshot](vccc/vccc2024/result.png) | 
+| [![screenshot](vccc/vccc2022/screenshot.png)](vccc/vccc2022/README.md) | [![screenshot](vccc/vccc2023/x86/result.png)](vccc/vccc2023/README.md) | [![screenshot](vccc/vccc2023/amiga/result.png)](vccc/vccc2023/README.md) | [![screenshot](vccc/vccc2024/result.png)](vccc/vccc2024/README.md) | 
 | [2022 (x86)](vccc/vccc2022/README.md) | [2023 (x86)](vccc/vccc2023/README.md) | [2023 (Amiga)](vccc/vccc2023/README.md) | [2024 (x86)](vccc/vccc2024/README.md) | 
 
 
