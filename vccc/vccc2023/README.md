@@ -25,8 +25,8 @@ You can assemble each version by leaving the corresponding line uncommented in t
 | version | executable size |
 | :-: | --: |
 | [v1](amiga/v1.s) | 164 bytes (125 + 36 + 3) |
-| [v2](amiga/v2.asm) | 120 bytes (82 + 36 + 2) |
-| [v3](amiga/v3.asm) | 112 bytes (76 + 36 + 2) |
-| **[v4](amiga/v4.asm)** | **104 bytes (68 + 36)** |
+| [v2](amiga/v2.s) | 120 bytes (82 + 36 + 2) |
+| [v3](amiga/v3.s) | 112 bytes (76 + 36 + 2) |
+| **[v4](amiga/v4.s)** | **104 bytes (68 + 36)** |
 
 You can assemble each version by leaving the corresponding line uncommented in the `vccc2023.s` file.
