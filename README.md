@@ -16,42 +16,26 @@ https://github.com/user-attachments/assets/f95842f3-0026-4ae9-b489-f83b17182fde
 
 A good looking fire effect in 64 bytes. Released at Lovebyte Party 2022. Ranked 9th in the high-end 64-byte intro compo.
 
-[Pouet](https://www.pouet.net/prod.php?which=90974) | [Demozoo](https://demozoo.org/productions/305327/) | [Video](https://github.com/xeleh/sizecoding/raw/main/minfire/minfire.mp4) | [Source](https://github.com/xeleh/sizecoding/blob/main/minfire/minfire.asm)
+[Pouet](https://www.pouet.net/prod.php?which=90974) | [Demozoo](https://demozoo.org/productions/305327/) | [Video](https://github.com/xeleh/sizecoding/raw/main/minfire/minfire.mp4) | [Source](minfire/minfire.asm)
 
-![screenshot](https://github.com/xeleh/sizecoding/blob/main/minfire/minfire.png)
+![screenshot](minfire/minfire.png)
 
 ## ffzoomer
 
 A variation of the chaos/dweezil zoomer in 127 bytes. Released at Lovebyte Party 2022. Ranked 5th in the high-end 128-byte intro compo.
 
-[Pouet](https://www.pouet.net/prod.php?which=90976) | [Demozoo](https://demozoo.org/productions/305356/) | [Video](https://github.com/xeleh/sizecoding/raw/main/ffzoomer/ffzoomer.mp4) | [Source](https://github.com/xeleh/sizecoding/blob/main/ffzoomer/ffzoomer.asm)
+[Pouet](https://www.pouet.net/prod.php?which=90976) | [Demozoo](https://demozoo.org/productions/305356/) | [Video](https://github.com/xeleh/sizecoding/raw/main/ffzoomer/ffzoomer.mp4) | [Source](ffzoomer/ffzoomer.asm)
 
-![screenshot](https://github.com/xeleh/sizecoding/blob/main/ffzoomer/ffzoomer.png)
+![screenshot](ffzoomer/ffzoomer.png)
 
-## vccc2022
+## vccc
 
-My (non submitted) entry for the [Vintage Computing Christmas Challenge 2022](https://logiker.com/Vintage-Computing-Christmas-Challenge-2022).
+My entries for the [Vintage Computing Christmas Challenge](https://logiker.com/Vintage-Computing-Christmas-Challenge-2024).
 
-#### PC : 50 bytes, x86 assembly | [Source](vccc2022/v7.asm)
+|  |  |  |  |
+| :-: | :-: | :-: | :-: |
+| ![screenshot](vccc/vccc2022/screenshot.png) | ![screenshot](vccc/vccc2023/x86/result.png) | ![screenshot](vccc/vccc2023/amiga/result.png) | ![screenshot](vccc/vccc2024/result.png) | 
+| [2022 (x86)](vccc/vccc2022/README.md) | [2023 (x86)](vccc/vccc2023/README.md) | [2023 (Amiga)](vccc/vccc2023/README.md) | [2024 (x86)](vccc/vccc2024/README.md) | 
 
-![screenshot](vccc2022/screenshot.png)
 
-## [vccc2023](vccc2023)
 
-My entries for the [Vintage Computing Christmas Challenge 2023](https://logiker.com/Vintage-Computing-Christmas-Challenge-2023).
-
-#### PC : 41 bytes, x86 assembly | [Source](vccc2023/x86/v5.asm)
-
-![screenshot](vccc2023/x86/result.png)
-
-#### Amiga : 68 bytes (without header), M68k assembly | [Source](vccc2023/amiga/v4.s)
-
-![screenshot](vccc2023/amiga/result.png)
-
-## [vccc2024](vccc2024)
-
-My entry for the [Vintage Computing Christmas Challenge 2024](https://logiker.com/Vintage-Computing-Christmas-Challenge-2024).
-
-#### PC : 52 bytes, x86 assembly | [Source](vccc2024/v5.asm)
-
-![screenshot](vccc2024/result.png)
