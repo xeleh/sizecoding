@@ -8,7 +8,7 @@ Use the `build.sh` script in each folder to build the binaries.
 
 The classic Matrix digital rain effect in 128 bytes. Released at Lovebyte Party 2025. Ranked 12th in the high-end 128-byte intro compo.
 
-[Demozoo](https://demozoo.org/productions/367739/) | [Source](matrixh/v2.asm)
+[Pouet](https://www.pouet.net/prod.php?which=103653) | [Demozoo](https://demozoo.org/productions/367739/) | [Source](matrixh/v2.asm)
 
 https://github.com/user-attachments/assets/f95842f3-0026-4ae9-b489-f83b17182fde
 
